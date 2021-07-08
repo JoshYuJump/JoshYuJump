@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [bali](https://github.com/JoshYuJump/bali), [grpc-client](https://github.com/JoshYuJump/grpc_client)
+- 🔭 I’m currently working on: [bali](https://github.com/JoshYuJump/bali), [django-rework](https://github.com/JoshYuJump/django-rework), [grpc-client](https://github.com/JoshYuJump/grpc_client)
 - 💬 Ask me about: `Python`
 
 <!--
