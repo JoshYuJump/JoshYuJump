@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: [bali](https://github.com/JoshYuJump/bali), [grpc-client](https://github.com/JoshYuJump/grpc_client)
+- 💬 Ask me about: `Python`
+
 <!--
 **JoshYuJump/JoshYuJump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
