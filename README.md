@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌴 I’m currently working on projects:
-  -  [Bali Framework](https://github.com/bali-framework/bali) (Simplify Cloud Native Microservices development base on FastAPI and gRPC)
+  -  [Bali framework](https://github.com/bali-framework/bali) (Simplify Cloud Native Microservices development base on FastAPI and gRPC)
   -  [django-rework](https://github.com/rework-union/django-rework) (Non-verbose Django development experience)
   -  [grpc-client](https://github.com/JoshYuJump/grpc_client)
 - 💬 Ask me about: `Python`, `Web Development`
