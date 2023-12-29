@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [bali](https://github.com/JoshYuJump/bali), [django-rework](https://github.com/JoshYuJump/django-rework), [grpc-client](https://github.com/JoshYuJump/grpc_client)
-- 💬 Ask me about: `Python`
+- 🔭 I’m currently working on projects:
+  -  [Bali Framework](https://github.com/bali-framework/bali) (Simplify Cloud Native Microservices development base on FastAPI and gRPC)
+  -  [django-rework](https://github.com/rework-union/django-rework) (Non-verbose Django development experience)
+  -  [grpc-client](https://github.com/JoshYuJump/grpc_client)
+- 💬 Ask me about: `Python`, `Web Development`
 
 <!--
 **JoshYuJump/JoshYuJump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
