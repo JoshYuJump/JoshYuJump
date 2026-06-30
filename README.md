@@ -3,7 +3,7 @@
 - 🌴 I’m currently working on projects:
   -  [Bali framework](https://github.com/bali-framework/bali) (Simplify Cloud Native Microservices development base on FastAPI and gRPC)
   -  [balify](https://github.com/bali-framework/balify) (Minimalist declarative API.)
-  -  [django-nx](https://github.com/JoshYuJump/django-nx) (Lightweight Django field utilities and extensions)
+  -  [django-nx](https://github.com/JoshYuJump/django-nx) (Lightweight Django & Django REST Framework utilities and extensions)
   -  [django-rework](https://github.com/rework-union/django-rework) (Non-verbose Django development experience)
   -  [grpc-client](https://github.com/JoshYuJump/grpc_client)
 - 💬 Ask me about: `Python`, `Web Development`
